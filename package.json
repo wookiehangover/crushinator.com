@@ -1,0 +1,22 @@
+{
+  "name": "crushinator",
+  "version": "0.0.0",
+  "description": "crushinator.com ===============",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wookiehangover/crushinator.com.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/wookiehangover/crushinator.com/issues"
+  },
+  "dependencies": {
+    "ecstatic": "~0.4.10"
+  }
+}
